@@ -13,3 +13,5 @@
 # Mes histoires préférées : 
 
 1. [La Cigale et la Fourmi](final/Cigale_fourmi.md)
+2. [Le Corbeau et le Renard](final/Corbeau_renard.md)
+3. [La Grenouille et le Boeuf](final/Grenouille_boeuf.md)

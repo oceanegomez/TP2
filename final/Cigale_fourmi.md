@@ -23,3 +23,5 @@ Dit-elle à cette emprunteuse.
 Je chantais, ne vous déplaise.
 - Vous chantiez ? j'en suis fort aise.
 Eh bien! dansez maintenant.
+
+![flèche droite](..\rush\annexe_tp2\images\fleche_droite.jpg)
